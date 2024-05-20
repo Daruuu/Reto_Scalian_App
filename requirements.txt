@@ -1,0 +1,16 @@
+matplotlib
+matplotlib-inline
+mediapipe
+numpy
+opencv-contrib-python
+opencv-python
+pandas
+scikit-learn
+scipy
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
+tensorflow
+tensorflow-estimator
+keyboard
+seaborn
